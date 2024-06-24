@@ -1,0 +1,7 @@
+C:\Users\YONSAI\Documents\C#\06-19\06_19_CShar[\06_19_CShar[\bin\Debug\06_19_CShar[.exe.config
+C:\Users\YONSAI\Documents\C#\06-19\06_19_CShar[\06_19_CShar[\bin\Debug\06_19_CShar[.exe
+C:\Users\YONSAI\Documents\C#\06-19\06_19_CShar[\06_19_CShar[\bin\Debug\06_19_CShar[.pdb
+C:\Users\YONSAI\Documents\C#\06-19\06_19_CShar[\06_19_CShar[\obj\Debug\06_19_CShar[.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\C#\06-19\06_19_CShar[\06_19_CShar[\obj\Debug\06_19_CShar[.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\C#\06-19\06_19_CShar[\06_19_CShar[\obj\Debug\06_19_CShar[.exe
+C:\Users\YONSAI\Documents\C#\06-19\06_19_CShar[\06_19_CShar[\obj\Debug\06_19_CShar[.pdb
