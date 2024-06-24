@@ -1,0 +1,7 @@
+C:\Users\YONSAI\Documents\C#\06-20\06_20CSharp\06_20CSharp\bin\Debug\06_20CSharp.exe.config
+C:\Users\YONSAI\Documents\C#\06-20\06_20CSharp\06_20CSharp\bin\Debug\06_20CSharp.exe
+C:\Users\YONSAI\Documents\C#\06-20\06_20CSharp\06_20CSharp\bin\Debug\06_20CSharp.pdb
+C:\Users\YONSAI\Documents\C#\06-20\06_20CSharp\06_20CSharp\obj\Debug\06_20CSharp.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\C#\06-20\06_20CSharp\06_20CSharp\obj\Debug\06_20CSharp.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\C#\06-20\06_20CSharp\06_20CSharp\obj\Debug\06_20CSharp.exe
+C:\Users\YONSAI\Documents\C#\06-20\06_20CSharp\06_20CSharp\obj\Debug\06_20CSharp.pdb
