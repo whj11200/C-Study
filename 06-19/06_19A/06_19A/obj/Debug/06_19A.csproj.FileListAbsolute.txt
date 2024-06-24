@@ -1,0 +1,7 @@
+C:\Users\YONSAI\Documents\C#\06-19\06_19A\06_19A\bin\Debug\06_19A.exe.config
+C:\Users\YONSAI\Documents\C#\06-19\06_19A\06_19A\bin\Debug\06_19A.exe
+C:\Users\YONSAI\Documents\C#\06-19\06_19A\06_19A\bin\Debug\06_19A.pdb
+C:\Users\YONSAI\Documents\C#\06-19\06_19A\06_19A\obj\Debug\06_19A.csproj.AssemblyReference.cache
+C:\Users\YONSAI\Documents\C#\06-19\06_19A\06_19A\obj\Debug\06_19A.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\C#\06-19\06_19A\06_19A\obj\Debug\06_19A.exe
+C:\Users\YONSAI\Documents\C#\06-19\06_19A\06_19A\obj\Debug\06_19A.pdb
