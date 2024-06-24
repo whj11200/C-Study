@@ -1,0 +1,14 @@
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\bin\Debug\net8.0\06_24NetCore.exe
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\bin\Debug\net8.0\06_24NetCore.deps.json
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\bin\Debug\net8.0\06_24NetCore.runtimeconfig.json
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\bin\Debug\net8.0\06_24NetCore.dll
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\bin\Debug\net8.0\06_24NetCore.pdb
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\06_24NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\06_24NetCore.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\06_24NetCore.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\06_24NetCore.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\06_24NetCore.dll
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\refint\06_24NetCore.dll
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\06_24NetCore.pdb
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\06_24NetCore.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\C#\06_24\06_24NetCore\06_24NetCore\obj\Debug\net8.0\ref\06_24NetCore.dll
